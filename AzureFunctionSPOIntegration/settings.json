@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SiteUrl": "https://m365x80744553.sharepoint.com/sites/document-center",
+    "TenantId": "052c51cb-7bae-4805-b8cc-c579ce93ca01",
+    "ClientId": "5e2dd2b5-6840-43de-9a9c-05407e87e190",
+    "CertificateThumbPrint": "65F1318E33AAFD9FB429CB3737C5021616B7F265",
+    "WEBSITE_LOAD_CERTIFICATES": "65F1318E33AAFD9FB429CB3737C5021616B7F265"
+  }
+}
